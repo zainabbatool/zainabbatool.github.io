@@ -1,0 +1,14 @@
+.menu li{
+  display:inline;
+}
+.body{
+  text-align: center;
+}
+.image{
+  height: 100px;
+  width: 100px;
+}
+.carousel{
+  height:75%;
+  width:50%;
+}
